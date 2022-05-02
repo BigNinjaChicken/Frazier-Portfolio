@@ -107,8 +107,11 @@ body {
 
 .profile-img {
     justify-content: center;
-    width: 30%;
     margin: auto;
+	
+    width: 20%;
+    height: auto;
+    object-fit: contain;
 }
 
 .gallery-item {
