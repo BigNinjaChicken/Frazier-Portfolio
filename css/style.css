@@ -105,6 +105,14 @@ body {
     grid-template-columns: auto auto;
 }
 
+.profile-img {
+    justify-content: center;
+    width: 30%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
 .gallery-item {
     text-align: center;
     margin: 2em;
