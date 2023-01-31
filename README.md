@@ -3,8 +3,7 @@
 ## IMPOTANT: 
 
 This portolfio is depricated and was my first attempt at making a portfolio.
+Also the website will not be updated and is not in active use.
 
-This portfolio is not being updated and is not in active use.
-
-My Portfolio:
+Old Portfolio Site:
 https://bigninjachicken.github.io/Frazier-Portfolio/index.html
